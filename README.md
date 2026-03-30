@@ -71,7 +71,7 @@ A comprehensive academic project covering:
 
 ## 📬 Connect With Me
 
-- LinkedIn: *(Add your LinkedIn link here)*  
+- LinkedIn: https://www.linkedin.com/in/daksh-nagar-597344316/
 - GitHub: https://github.com/daksh25BAI10927  
 
 ---
