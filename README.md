@@ -47,7 +47,7 @@ A comprehensive academic project covering:
 - Google Forms Quiz Creation
 - GitHub Portfolio Management
 
-🔗 Repository: *(Add your repo link here)*
+🔗 Repository: https://github.com/daksh25BAI10927/Vityarthi_Digital_Literacy
 
 ---
 
