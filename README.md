@@ -37,20 +37,6 @@ Along with academics, I actively participate in sports and am a **state-level ba
 
 ---
 
-## 📂 Projects
-
-### 📌 Digital Literacy Project
-A comprehensive academic project covering:
-- Digital Literacy Awareness
-- Online Safety & Cybercrime Prevention
-- Email Etiquette
-- Google Forms Quiz Creation
-- GitHub Portfolio Management
-
-🔗 Repository: https://github.com/daksh25BAI10927/Vityarthi_Digital_Literacy
-
----
-
 ## 📈 Currently Learning
 
 - Data Analysis using Pandas  
